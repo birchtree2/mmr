@@ -1,0 +1,26 @@
+# 文件：mmr-local-source/_config.yml
+
+# ----------------------------------------
+# Site (站点基础信息)
+# ----------------------------------------
+title: 九木湾的游记与回忆录'
+description: 'Memoir (mmr) - 记录旅行、生活与思考的文字港湾。'
+author: 九木湾
+language: zh-CN
+timezone: 'Asia/Shanghai' # 或您所在的时区
+
+# ----------------------------------------
+# URL (适配 /mmr 子路径 - 关键!)
+# ----------------------------------------
+url: https://birchtree2.github.io
+root: /mmr/ # 必须设置为您的仓库名 'mmr'，末尾带斜杠
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: false 
+  trailing_html: false  
+
+# ----------------------------------------
+# Theme (启用 Fluid 主题)
+# ----------------------------------------
+theme: fluid

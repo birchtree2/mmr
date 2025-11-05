@@ -1,0 +1,36 @@
+# 文件：mmr-local-source/.github/workflows/deploy.yml
+
+name: Hexo CI/CD to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # 监听主分支的推送
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+        with:
+          submodules: true 
+          
+      - name: Setup Node.js Environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' 
+          
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Generate Static Files
+        run: hexo generate # Hexo 构建命令
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages # 部署到 gh-pages 分支
+          force_orphan: true
