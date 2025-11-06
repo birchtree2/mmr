@@ -10,6 +10,7 @@ tags:
 - 邦邦
 - lovelive
 - 声优
+description: Animelo Summer Live 2025 @ Saitama Super Arena Day1 (Feat. Roselia, 三森すずこ, MyGO，大石昌良)
 ---
 
 # ASL2025-Day1 | 瑕不掩瑜

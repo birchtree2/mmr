@@ -14,7 +14,7 @@ timezone: 'Asia/Shanghai' # 或您所在的时区
 # ----------------------------------------
 url: https://birchtree2.github.io
 root: /mmr/ # 必须设置为您的仓库名 'mmr'，末尾带斜杠
-permalink: :year/:month/:day/:title/
+permalink: posts/:slug/
 permalink_defaults:
 pretty_urls:
   trailing_index: false 
