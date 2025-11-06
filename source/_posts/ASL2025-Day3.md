@@ -1,5 +1,5 @@
 ---
-title: ASL2025-Day3
+title: ASL2025-Day3 ｜ BACK,BACK,BACK TO THE PRESENT
 comments: true
 date: 2025-11-06 13:45:44
 slug: asl25d3

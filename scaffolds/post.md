@@ -1,7 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-slug:
+# slug:
 categories:
 tags:
 excerpt:
