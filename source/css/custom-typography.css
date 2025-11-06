@@ -21,3 +21,33 @@
         margin: 0 auto;
     }
 }
+
+
+/* 针对 Fluid 的通用页面内容和主体文本（保持不变） */
+.main-content, 
+.page-container,
+.fluid-container,
+.content-area { 
+    font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif !important;
+}
+.page-container .markdown-body {
+    font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif !important;
+}
+
+/* ----------------------------------------------------------------
+ * 5. 文章标题字体修改 (新增或修改此部分)
+ * ---------------------------------------------------------------- */
+
+/* 针对文章页面的主标题 */
+.post-title {
+    font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif !important;
+    font-weight: 700; /* 标题可以适当加粗，保持视觉重要性 */
+    line-height: 1.3; /* 标题行高可以略小 */
+    letter-spacing: normal; /* 标题不增加字间距 */
+}
+
+/* 如果有 H1 标签，也确保其样式统一（防止在 About 页面等有 H1） */
+.markdown-body h1 {
+    font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif !important;
+    font-weight: 700;
+}
