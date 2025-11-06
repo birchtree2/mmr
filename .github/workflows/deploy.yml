@@ -23,7 +23,8 @@ jobs:
           
       - name: Install Dependencies
         run: npm install
-
+      - name: Clean Previous Builds
+        run: npx hexo clean
       - name: Generate Static Files
         run: npx hexo generate # Hexo 构建命令
 
