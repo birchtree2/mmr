@@ -687,7 +687,7 @@ post:
     # 显示更新日期
     # Show update date
     update_date:
-      enable: false
+      enable: true
       format: "LL"
 
   # 文章底部上一篇下一篇功能
@@ -747,11 +747,11 @@ post:
   # 评论插件
   # Comment plugin
   comments:
-    enable: false
+    enable: true
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
-    type: disqus
+    type: giscus
 
 
 #---------------------------
@@ -892,13 +892,13 @@ cusdis:
 # Based on GitHub Discussions, similar to Utterances
 # See: https://giscus.app/
 giscus:
-  repo:
-  repo-id:
-  category:
-  category-id:
+  repo: 'birchtree2/mmr'
+  repo-id: 'R_kgDOQP34Tg'
+  category: 'Announcements'
+  category-id: 'DIC_kwDOQP34Ts4Cxh-T'
   theme-light: light
   theme-dark: dark
-  mapping: pathname
+  mapping: title
   reactions-enabled: 1
   emit-metadata: 0
   input-position: top
