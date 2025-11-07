@@ -16,7 +16,7 @@ excerpt: |-
     Animelo Summer Live 2025 Day 1 @ Saitama Super Arena  
     (Feat. Roselia, 三森すずこ, MyGO!!!!!, FripSide, 大石昌良)
     2025.08.29
-banner_img: 'https://obsidian-1382808762.cos.ap-guangzhou.myqcloud.com/obsidian/cfcfcc69700d0207dba676b961877361.jpg'
+banner_img: 'ASL2025-Day1.assets/cfcfcc69700d0207dba676b961877361.jpg'
 ---
 
 # ASL2025-Day1 ｜ 潰えぬ夢へ　燃え上がれ
@@ -25,10 +25,9 @@ banner_img: 'https://obsidian-1382808762.cos.ap-guangzhou.myqcloud.com/obsidian/
 
 ### 秋叶原和神田明神
 
-
 ### 入场
 
-![开场前,当时以为d1会追加少歌所以拿了少歌的棒子](https://obsidian-1382808762.cos.ap-guangzhou.myqcloud.com/obsidian/a23d763b732ec040405e4e7fc5504f22.jpg)
+![开场前,当时以为d1会追加少歌所以拿了少歌的棒子](ASL2025-Day1.assets/a23d763b732ec040405e4e7fc5504f22.jpg)
 
 当天东京气温35度+，场外还是很难待的，所以卡点进的场。之前担心moala pocket的app会崩, 但是在oppo的系统上还挺稳定(毕竟带谷歌框架)
 
