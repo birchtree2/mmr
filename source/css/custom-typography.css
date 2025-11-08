@@ -6,7 +6,8 @@
 /* 基础：对 article.page-content 及其常见内容容器应用排版规则 */
 article.page-content,
 article.page-content .post-content,
-article.page-content .markdown-body {
+article.page-content .markdown-body,
+article.post-content .markdown-body{
     font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif !important;
     line-height: 1.8;
     letter-spacing: 0.02em;
@@ -31,7 +32,7 @@ article.page-content .markdown-body h1 {
 /* 大屏时限制宽度并居中（只针对 article.page-content 及其直接内容） */
 @media screen and (min-width: 1200px) {
     article.page-content,
-    article.page-content .post-content,
+    article.post-content .markdown-body,
     article.page-content .markdown-body {
         max-width: 1000px;
         margin-left: auto;
