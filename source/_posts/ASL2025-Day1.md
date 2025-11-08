@@ -35,7 +35,7 @@ banner_img: 'img/ASL2025-Day1.assets/cfcfcc69700d0207dba676b961877361.jpg'
 
 ### 秋叶原和神田明神
 
-第二天
+图还没p好，咕了
 
 ### 入场
 

@@ -1,6 +1,7 @@
 ---
 title: about
 date: 2025-11-05 23:42:57
+comments: true
 ---
 
 ## test

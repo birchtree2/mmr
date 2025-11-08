@@ -17,7 +17,7 @@
 /* 限制内容宽度（可选） */
 @media screen and (min-width: 1200px) {
     .post-content {
-        max-width: 800px;
+        max-width: 1000px;
         margin: 0 auto;
     }
 }
