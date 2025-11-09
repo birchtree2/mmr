@@ -33,9 +33,16 @@ banner_img: 'img/ASL2025-Day1.assets/cfcfcc69700d0207dba676b961877361.jpg'
 
 ![新時代 上野店](img/ASL2025-Day1.assets/Image_1756382013113.jpg)
 
-### 秋叶原和神田明神
+### 秋叶原
 
-图还没p好，咕了
+![UDX大楼(忘记把屏幕p成A-RISE了)](img/ASL2025-Day1.assets/hnk.jpg)
+
+### 神田明神
+
+![明神男坂*](img/ASL2025-Day1.assets/ll3.jpg)
+
+![神田明神前面的广场*](img/ASL2025-Day1.assets/stms.jpg)
+
 
 ### 入场
 
@@ -43,7 +50,7 @@ banner_img: 'img/ASL2025-Day1.assets/cfcfcc69700d0207dba676b961877361.jpg'
 
 东京当日的气温在33度以上，场外实在不宜久留。于是我们几乎是掐着开场最后一刻才验票入场。此前一直担忧下票的「Moala Pocket」会在关键时刻崩溃，所幸入场一气呵成。
 
-![image-20251107165939120](img/ASL2025-Day1.assets/image-20251107165939120.png)
+![入场前排队](img/ASL2025-Day1.assets/image-20251107165939120.png)
 
 ### live repo
 

@@ -1,5 +1,5 @@
 ---
-title: 三森铃子十周年上海场repo 
+title: 三森铃子十周年上海场repo ｜ "为何要离开，吾友啊" (写于一年后)
 comments: true
 date: 2025-03-06 11:44:18
 slug: mmrszk
