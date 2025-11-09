@@ -44,3 +44,23 @@ article.page-content .markdown-body h1 {
    - 只针对 <article class="page-content">，不再追加一堆选择器。
    - 若某些页面没有使用 article.page-content 作为根容器，请告诉我该页面的真实结构，我会把 article 选择器替换为更准确的根选择器。
 */
+
+/* 链接颜色：确保 page（about）页面与 post 页面中的链接颜色一致 */
+/* 使用主题中默认的文章链接色（fluid_config.yml 中 post_link_color） */
+article.page-content .markdown-body a,
+.about .markdown-body a,
+.page-container .markdown-body a {
+    color: #0366d6; /* post_link_color */
+    text-decoration: underline;
+}
+.article.page-content .markdown-body a:visited,
+.about .markdown-body a:visited,
+.page-container .markdown-body a:visited {
+    color: #0366d6;
+}
+.article.page-content .markdown-body a:hover,
+.about .markdown-body a:hover,
+.page-container .markdown-body a:hover {
+    color: #30a9de; /* link_hover_color */
+    background-color: #f8f9fa; /* link_hover_bg_color */
+}
