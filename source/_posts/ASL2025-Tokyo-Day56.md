@@ -15,11 +15,13 @@ excerpt: 少女歌剧剧场版重映，池袋阳光水族馆, 浅草寺少歌巡
 
 off会时听群友说起少女歌剧剧场版重映的[通知](https://revuestarlight.com/news/10729/)。加上9月2号一天无事而东京的气温又太高，决定这一天都在室内度过。
 
-离东京市区最方便的应该是aeon cinema板桥店。可在[官网](https://theater.aeoncinema.com/theaters/)使用邮箱注册永旺影院的账号。日本手机号那栏可以随便填——它不发验证码，但之后在电影院机器上取纸质票时，需要重新输入你填的这个号码。付款支持便利店结算或Visa卡。如果是人气一般的场次，现场买票也来得及，不过好位置可能就剩得不多了。
+离东京市区最方便的应该是aeon cinema板桥店。可在[官网](https://theater.aeoncinema.com/theaters/)使用邮箱注册永旺影院的账号。日本手机号那栏可以随便填——它不发验证码，但之后在电影院机器上取纸质票时，需要重新输入你填的这个号码。付款支持便利店结算或VISA。如果是人气一般的场次，现场买票也来得及，不过好位置可能就剩得不多了。
 
 早上掐着点出门，谁知东武东上线突然晚点，赶到影院时电影已经开场十五分钟 (长颈鹿跑步.jpg)。还好工作人员还在门口检票，赶忙放我进去了。我选的座位视角不错，影院音响和画质都很好。正片放完后，还加映了4th Live的片段，一共三首歌。在大银幕上看Live效果特别震撼，尤其是萌P那场 revue真是帅得没话说。
 
 ![晚点了（悲）](img/ASL2025-Tokyo-Day56.assets/3723bcdd5f786bf085140f3b5401b0b0.jpeg)
+
+![发现要迟到的长颈鹿](https://i1.hdslb.com/bfs/article/62dc7713bb9afcf23a959976639b39c0ac55e8cc.jpg@1192w_596h.webp)
 
 ![无料](img/ASL2025-Tokyo-Day56.assets/IMG20250902135944.jpg)
 
@@ -27,7 +29,7 @@ off会时听群友说起少女歌剧剧场版重映的[通知](https://revuestar
 
 ### 池袋阳光水族馆
 
-回程坐地铁到东池袋站，穿过长长的地下通道进入sunshine city，再在购物中心里找到上楼顶的电梯。这里是著名的~~女同~~阳光水族馆， 也是mygo, 少歌等百合动画等取景地。工作日的门票2600日元，线上线下都能买,[价格表](https://sunshinecity.jp/file/aquarium/pdf/aquarium_calendar.pdf)。
+回程坐地铁到东池袋站，穿过长长的地下通道进入sunshine city，再在购物中心里找到上楼顶的电梯。就来到了~~女同~~阳光水族馆， 也是mygo, 少歌等百合动画等取景地。工作日的门票2600日元，线上线下都能买,[价格表](https://sunshinecity.jp/file/aquarium/pdf/aquarium_calendar.pdf)。
 
 ![](img/ASL2025-Tokyo-Day56.assets/IMG20250902161159.jpg)
 
@@ -39,6 +41,8 @@ off会时听群友说起少女歌剧剧场版重映的[通知](https://revuestar
 
 !["海月空惑"](img/ASL2025-Tokyo-Day56.assets/IMG20250902153929.jpg)
 ![“Penguins in the Sky”](img/ASL2025-Tokyo-Day56.assets/IMG20250902161550.jpg)
+
+
 
 ### 浅草寺巡礼(day6)
 

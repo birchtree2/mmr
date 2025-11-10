@@ -63,5 +63,7 @@ fhana龙女仆的串烧挺不错的，还唱了义妹生活的op天使たちの�
 
 ![回去的路上拍到的东京塔全景*](img/ASL2025-Day3.assets/1FA95626-553E-4691-B70C-613EA2A544DC_1_201_a.jpeg)
 
+东京塔在夏季使用的是冷色的白+红的颜色组合，而不是经常在宣传图里出现的黄+红，不过白灯有一种冷峻感也不错。具体的颜色和安排可以在[官网](https://en.tokyotower.co.jp/lightup/) 查看
+
 [^1]: [【DISCOTHEQUE《十字架与吸血鬼》三森すずこ × 内田彩 in 2018】](https://www.bilibili.com/video/BV1j14y127KX/)
 [^2]: [anitabi巡礼地图](https://www.anitabi.cn/map?bangumiId=214265&c=139.7452,35.6568&z=22&pid=ohx3gdlah)

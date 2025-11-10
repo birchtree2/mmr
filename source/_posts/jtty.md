@@ -1,5 +1,5 @@
 ---
-title: jtty__
+title: 关于近期事件的一些碎碎念
 comments: true
 date: 2025-7-25 23:14:59
 categories: 杂谈
