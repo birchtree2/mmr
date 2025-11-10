@@ -8,6 +8,7 @@ categories:
 tags:
 - 圣地巡礼
 excerpt: 东京都厅，下北泽
+banner_img: 'img/ASL2025-Tokyo-Day4.assets/IMG20250901125202.jpg'
 ---
 
 ### 啊，oc!
@@ -40,7 +41,7 @@ excerpt: 东京都厅，下北泽
 
 ![](img/ASL2025-Tokyo-Day4.assets/ddqz.jpg)
 
-最后在公务员食堂购买咖啡和酸奶(支持现金,ic卡)，落地窗外是东京的天际线，在这里工作真好啊。
+最后在公务员食堂购买咖啡和酸奶(支持现金,ic卡)，落地窗外是东京的天际线，令人羡慕。
 
 ### 下北泽
 

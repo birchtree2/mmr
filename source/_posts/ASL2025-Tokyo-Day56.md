@@ -9,6 +9,7 @@ tags:
 - 少女歌剧
 - 水族馆
 excerpt: 少女歌剧剧场版重映，池袋阳光水族馆, 浅草寺少歌巡礼
+banner_img: 'img/ASL2025-Tokyo-Day56.assets/IMG20250903101800.jpg'
 ---
 
 ### 少歌剧场版重映

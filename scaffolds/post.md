@@ -6,6 +6,6 @@ categories:
 tags:
 excerpt:
 comments: true
-#banner_img:
+banner_img:
 #针对博客文章
 ---
