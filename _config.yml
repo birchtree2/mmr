@@ -24,3 +24,12 @@ pretty_urls:
 # Theme (启用 Fluid 主题)
 # ----------------------------------------
 theme: fluid
+
+feed:
+  enable: true
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
