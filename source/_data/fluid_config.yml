@@ -227,7 +227,7 @@ color:
 # Font
 font:
   font_size: 16px
-  font_family: "'Source Han Serif SC', 'Noto Serif SC', 'Noto Serif', Georgia, 'Times New Roman', serif"
+  font_family: "Georgia, 'Times New Roman', 'Source Han Serif SC', 'Noto Serif SC', 'Noto Serif', serif"
   letter_spacing: 0.02em
   code_font_size: 85%
 
