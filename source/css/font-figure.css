@@ -1,0 +1,13 @@
+/*
+ * custom.css
+ * 修复衬线字体 (serif) 中的数字下沉问题
+ * 强制使用等高数字 (Lining Figures)
+ */
+
+body {
+  /* 针对现代浏览器 */
+  font-variant-numeric: lining-nums;
+
+  /* 针对需要 OpenType 特性设置的浏览器 */
+  font-feature-settings: "lnum" 1;
+}
