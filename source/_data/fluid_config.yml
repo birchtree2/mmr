@@ -349,7 +349,7 @@ iconfont: //at.alicdn.com/t/c/font_1736178_k526ubmyhba.css
 navbar:
   # 导航栏左侧的标题，为空则按 hexo config 中 `title` 显示
   # The title on the left side of the navigation bar. If empty, it is based on `title` in hexo config
-  blog_title: "Fluid"
+  blog_title: ""
 
   # 导航栏毛玻璃特效，实验性功能，可能会造成页面滚动掉帧和抖动，部分浏览器不支持会自动不生效
   # Navigation bar frosted glass special animation. It is an experimental feature
@@ -447,15 +447,15 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
+    <i class="iconfont icon-rss-fill"></i>
+    Subscribe via RSS:  <a href="/mmr/atom.xml" target="_blank" rel="nofollow noopener"><span>Atom</span></a> | <a href="/mmr/rss2.xml" target="_blank" rel="nofollow noopener"><span>RSS2</span></a>
+    <br>
+    <i class="iconfont icon-github-fill"></i>
+    Source Code:  <a href=https://github.com/birchtree2/mmr target="_blank" rel="nofollow noopener"><span>Please Star 🌟 if you like it!</span></a>
+    <br>
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
     <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
-    <br>
-    <i class="iconfont icon-github-fill"></i>
-    Powered by <a href="https://github.com/birchtree2/mmr" target="_blank" rel="nofollow noopener"><span>GitHub Pages</span>,Star⭐️ if you like it!</a>
-    <br>
-    <i class="iconfont icon-rss-fill"></i>
-    Subscribe via RSS:  <a href="/mmr/atom.xml" target="_blank" rel="nofollow noopener"><span>Atom</span></a> | <a href="/mmr/rss2.xml" target="_blank" rel="nofollow noopener"><span>RSS2</span></a>
   '
 
   # 展示网站的 PV、UV 统计数
