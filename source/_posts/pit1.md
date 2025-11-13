@@ -1,11 +1,14 @@
 ---
-title: "匹兹堡行记1 | Where three mighty rivers flow together" 
+title: 匹兹堡行记1 | Where three mighty rivers flow together
 comments: true
-date: 2025-09-25 11:43:35
+date: 2025-11-11 11:43:35
 categories: 
 - [游记,cmu]
 tags:
-excerpt: 
+- 航空
+- 匹兹堡
+- CMU
+excerpt: 第一部分
 banner_img:
 ---
 

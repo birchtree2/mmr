@@ -1,10 +1,12 @@
 ---
-title: 匹兹堡行记2 ｜ All Glory is Fleeting
+title: 匹兹堡行记2 | All Glory is Fleeting
 comments: true
 date: 2025-11-13 18:45:16
 categories:
-tags: [游记,cmu]
-excerpt: ß
+- [游记,cmu]
+tags: 
+- 匹兹堡
+excerpt: 第二部分 
 banner_img:
 ---
 
