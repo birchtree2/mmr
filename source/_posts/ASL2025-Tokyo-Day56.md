@@ -40,8 +40,8 @@ off会时听群友说起少女歌剧剧场版重映的[通知](https://revuestar
 
 就算除开动画要素，水族馆的海月水母区和大型热带鱼缸很震撼，还有屋顶的企鹅，以及活带鱼都值得一看。相比上海的海洋馆200元以上的票价算比较良心了。
 
-!["海月空惑"](img/ASL2025-Tokyo-Day56.assets/IMG20250902153929.jpg)
-![“Penguins in the Sky”](img/ASL2025-Tokyo-Day56.assets/IMG20250902161550.jpg)
+![「海月空惑」](img/ASL2025-Tokyo-Day56.assets/IMG20250902153929.jpg)
+![「Penguins in the Sky」](img/ASL2025-Tokyo-Day56.assets/IMG20250902161550.jpg)
 
 
 
