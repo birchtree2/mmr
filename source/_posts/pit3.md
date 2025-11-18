@@ -1,5 +1,5 @@
 ---
-title: 匹兹堡行记3 | Where three mighty rivers flow together
+title: 匹兹堡行记3 | To live is the rarest thing in the world. Most people exist, that is all.
 comments: true
 date: 2025-11-18 19:42:52
 categories:
@@ -11,6 +11,8 @@ tags:
 excerpt: 第三部分
 banner_img:
 ---
+
+记录下生活琐事。
 
 ### 办银行卡
 
@@ -49,7 +51,7 @@ subway的三明治也是在预算有限的情况下补充蔬菜的好选择，�
 
 餐厅方面，有次在学校旁边的Union Grill Oakland聚餐，确实是很正宗的匹兹堡牛排、汉堡之类的美式餐厅。点了名为「Pittsburgh Fish」的汉堡，里面的两块鱼排比手掌还大吃到力竭，配菜是碳水炸弹土豆泥，最后还是没吃完。以及小费最低18%。
 
-另外匹兹堡东南亚的餐厅也很多，相比匹兹堡的中餐来说要更正宗。松鼠山的Took Took 98(2018 Murray Ave) 是很好吃的一家泰国菜, 咖喱很正宗不过也很辣， 炒河粉(pad kee maw)炒出了锅气且调味料用的合适。旁边还有一家卖抹茶的 Meccha Matcha(2000 Murray Ave)。Shadyside的Noodlehead个人认为不好吃, 炒粉太甜了。
+另外匹兹堡东南亚的餐厅也很多，相比匹兹堡的中餐来说要更正宗。当然这只是我的个人感受，比如匹大那边的麻辣香锅和一些更贵的中餐厅我没去过。松鼠山的Took Took 98(2018 Murray Ave) 是很好吃的一家泰国菜, 咖喱很正宗不过也很辣， 炒河粉(pad kee maw)炒出了锅气且调味料用的合适。旁边还有一家卖抹茶的 Meccha Matcha(2000 Murray Ave)。Shadyside的Noodlehead个人认为不好吃, 炒粉太甜了。
 
 ![UG Oakland](img/pit3.assets/ptf.jpg)
 ![UG Oakland菜单](img/pit3.assets/pitf2.jpg)
@@ -75,5 +77,10 @@ subway的三明治也是在预算有限的情况下补充蔬菜的好选择，�
 ### 倒霉的换电脑经历
 
 我的thinkbook在三四月份时就因为进水坏过一次，故障是无法充电。结果某一天又出现了不能充电的情况，放静电也无效，看来充电模块又出问题了。谷歌地图搜了一下发现最近的联想官方店在北卡(???)，不然就是纽约。而且这台电脑保修期已过，维修费估计也不低。于是只能前往Apple Shadyside购买了一台air (m4,16+256G)。 学生优惠799刀,送一个airpods4, 相比国内国补后的价格并不是很便宜，但也是被迫无奈。 顺便一提亚马逊699刀但没有学生优惠，只有黑色款能能次日送达。
+
+
+### 想要变得现充
+
+匹兹堡这地方非常无聊，周末我室友基本都去攀岩或者爬山。i人融不进那边的社交圈，运动苦手不会攀岩和hiking, 运动只剩下和thu的同学一起打乒乓球。学校UC地下室有乒乓球桌和台球桌，UC二楼有游泳馆，可惜来的时候忘记带泳裤了。
 
 [^1]: [Tomorrow’s Energy and Innovation Summit](https://www.cmu.edu/leadership/president/campus-comms/07-14-25)
