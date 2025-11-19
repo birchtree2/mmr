@@ -234,7 +234,7 @@ font:
 # 指定自定义 .js 文件路径，支持列表；路径是相对 source 目录，如 /js/custom.js 对应存放目录 source/js/custom.js
 # Specify the path of your custom js file, support list. The path is relative to the source directory, such as `/js/custom.js` corresponding to the directory `source/js/custom.js`
 custom_js:
-
+  - /js/custom-contact.js #动态加载联系方式，防止简单爬取
 # 指定自定义 .css 文件路径，用法和 custom_js 相同
 # The usage is the same as custom_js
 custom_css:
@@ -452,6 +452,9 @@ footer:
     <br>
     <i class="iconfont icon-github-fill"></i>
     Source Code:  <a href=https://github.com/birchtree2/mmr target="_blank" rel="nofollow noopener"><span>Please Star 🌟 if you like it!</span></a>
+    <br>
+    Contact:
+    <a id="footerEmailLink" href="#">Loading...</a>
     <br>
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
