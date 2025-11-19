@@ -454,7 +454,7 @@ footer:
     Source Code:  <a href=https://github.com/birchtree2/mmr target="_blank" rel="nofollow noopener"><span>Please Star 🌟 if you like it!</span></a>
     <br>
     Contact:
-    <a id="footerEmailLink" href="#">Loading...</a>
+    <a id="myFooterEmailLink" href="#">Loading...</a>
     <br>
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
