@@ -37,13 +37,13 @@ banner_img:
 
 subway的三明治也是在预算有限的情况下补充蔬菜的好选择，不过第一次点单的时候被各种酱和芝士的英文名绕晕了，最后总结了一套比较符合我口味的模板，公式做题就是快。
 
-```
+```text
 午饭吃6inch,晚饭吃12inch
 面包选italian, toasted
 肉类选teriyaki chiken 或 tuna
 奶酪american cheese
-蔬菜 extra lettuce, extra tomato,green onion (可以让他给多一点，补充维生素)
-最后酱料选万能的honey mustard, 好吃不腻
+蔬菜 extra lettuce, extra tomato,green onion (说extra可以让他给多一点，补充维生素)
+最后酱料选万能的honey mustard
 ```
 
 餐厅方面，有次在学校旁边的Union Grill Oakland聚餐，确实是很正宗的匹兹堡牛排、汉堡之类的美式餐厅。点了名为「Pittsburgh Fish」的汉堡，里面的两块鱼排比手掌还大吃到力竭，配菜是碳水炸弹土豆泥，最后还是没吃完。以及小费最低18%。

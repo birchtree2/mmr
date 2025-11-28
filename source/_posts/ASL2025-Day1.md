@@ -1,5 +1,5 @@
 ---
-title: ASL2025-Day1 | 潰えぬ夢へ　燃え上がれ
+title: ASL2025-Day1 | 「潰えぬ夢へ　燃え上がれ」
 comments: true
 date: 2025-11-06 11:14:30
 slug: asl25d1

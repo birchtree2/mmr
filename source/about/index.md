@@ -44,8 +44,7 @@ comments: true
 - [CC98 @北原雪菜](https://cc98.org/user/id/702211)
 - ~~希望有一天这里能放上能看的Google Scholar~~
 
-如果你对本博客相关内容有任何建议或问题，可以在文章页底部评论区留言，或者
-发邮件到 <a id="myEmailLink" href="#">加载中...</a>
+如果你对本博客相关内容有任何建议或问题，可以在文章页底部评论区留言，或者发邮件到 <a id="myEmailLink" href="#">加载中...</a>
 
 
 <p style="text-align:center">
