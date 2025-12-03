@@ -1,0 +1,66 @@
+/* 文件：mmr-local-source/source/css/custom-typography.css
+   精简版：统一对所有 <article class="page-content"> 下的内容应用衬线体与版式规则。
+   目标：不随层级变化，简单且可维护。
+*/
+
+/* 基础：对 article.page-content 及其常见内容容器应用排版规则 */
+article.page-content,
+article.page-content .post-content,
+article.page-content .markdown-body,
+article.post-content .markdown-body{
+    font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif !important;
+    line-height: 1.8;
+    letter-spacing: 0.02em;
+    font-size: 16.5px;
+    color: inherit;
+}
+
+/* 段落间距（仅影响文章内段落，便于可维护） */
+article.page-content .markdown-body p {
+    margin-bottom: 1.5em;
+}
+
+/* 标题风格：保持与正文统一但更突出 */
+article.page-content .post-title,
+article.page-content .markdown-body h1 {
+    font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif !important;
+    font-weight: 700;
+    line-height: 1.3;
+    letter-spacing: normal;
+}
+
+/* 大屏时限制宽度并居中（只针对 article.page-content 及其直接内容） */
+@media screen and (min-width: 1200px) {
+    article.page-content,
+    article.post-content .markdown-body,
+    article.page-content .markdown-body {
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+/* 说明：
+   - 只针对 <article class="page-content">，不再追加一堆选择器。
+   - 若某些页面没有使用 article.page-content 作为根容器，请告诉我该页面的真实结构，我会把 article 选择器替换为更准确的根选择器。
+*/
+
+/* 链接颜色：确保 page（about）页面与 post 页面中的链接颜色一致 */
+/* 使用主题中默认的文章链接色（fluid_config.yml 中 post_link_color） */
+article.page-content .markdown-body a,
+.about .markdown-body a,
+.page-container .markdown-body a {
+    color: #0366d6; /* post_link_color */
+    text-decoration: underline;
+}
+.article.page-content .markdown-body a:visited,
+.about .markdown-body a:visited,
+.page-container .markdown-body a:visited {
+    color: #0366d6;
+}
+.article.page-content .markdown-body a:hover,
+.about .markdown-body a:hover,
+.page-container .markdown-body a:hover {
+    color: #30a9de; /* link_hover_color */
+    background-color: #f8f9fa; /* link_hover_bg_color */
+}

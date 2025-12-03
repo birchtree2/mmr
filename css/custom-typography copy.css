@@ -1,0 +1,53 @@
+/* 文件：mmr-local-source/source/css/custom-typography.css */
+
+/* 针对 Fluid 主题的文章内容容器 */
+.markdown-body {
+    /* 字体：衬线字体，增强文学感 */
+    font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif;
+    /* 增加行高 */
+    line-height: 1.8; 
+    /* 略微增加字间距 */
+    letter-spacing: 0.02em; 
+    /* 基础字号 */
+    font-size: 16.5px; 
+}
+.markdown-body p {
+    margin-bottom: 1.5em; /* 段落间距 */
+}
+/* 限制内容宽度（可选） */
+@media screen and (min-width: 1200px) {
+    .post-content {
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+}
+
+
+/* 针对 Fluid 的通用页面内容和主体文本（保持不变） */
+.main-content, 
+.page-container,
+.fluid-container,
+.content-area { 
+    font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif !important;
+}
+.page-container .markdown-body {
+    font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif !important;
+}
+
+/* ----------------------------------------------------------------
+ * 5. 文章标题字体修改 (新增或修改此部分)
+ * ---------------------------------------------------------------- */
+
+/* 针对文章页面的主标题 */
+.post-title {
+    font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif !important;
+    font-weight: 700; /* 标题可以适当加粗，保持视觉重要性 */
+    line-height: 1.3; /* 标题行高可以略小 */
+    letter-spacing: normal; /* 标题不增加字间距 */
+}
+
+/* 如果有 H1 标签，也确保其样式统一（防止在 About 页面等有 H1） */
+.markdown-body h1 {
+    font-family: "Source Han Serif SC", "Noto Serif SC", "Noto Serif", "Georgia", "Times New Roman", serif !important;
+    font-weight: 700;
+}
